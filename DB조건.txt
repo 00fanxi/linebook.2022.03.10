@@ -1,0 +1,4 @@
+1. connectdata db 생성
+2. 밑에 id_counter와 sharenum_counter collection 생성
+3. 각각 collection에 DOC 하나씩 생성 _id는 각각의 이름 부여 (id_counter,sharenum_counter)
+4. id_counter : 0, sharenum_counter : 0 입력 후 프로그램 시작
